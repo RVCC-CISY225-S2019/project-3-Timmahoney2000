@@ -1,4 +1,5 @@
-# CISY 225 Spring 2019 Project 2 Add images to About Me page as figures with captions
+# CISY 225 Spring 2019 Project 2 
+# Add images to About Me page as figures with captions
 
 You are going to have to clone the files from Project 2 into this repo. Once you do that, you are going to take 3 photos that make up a conherent theme and add them to your images folder. Then you'll edit index.html and styles.css to make the required changes. 
 
