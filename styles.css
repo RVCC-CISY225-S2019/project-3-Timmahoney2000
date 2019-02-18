@@ -51,7 +51,7 @@ section::after {
     content: "";
   display: table;
   clear: both;
-  font-size: 10px;
+  font-size: 20px;
 }
 footer {
   background-color: #8FC1E3;
